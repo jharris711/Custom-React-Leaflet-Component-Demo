@@ -205,7 +205,7 @@ npm start
 
 ### Conclusion
 
-Now, if you go to localhost:3000 in your browser you should have a map on your screen with some markers and shapes. That's it. You just created a Leaflet Map component inside of a React application without the headache of reading the React-Leaflet docs! It's super simple and allows you to have a much better, stress-free development experience.
+Now, if you go to [localhost:3000](http://localhost:3000) in your browser you should have a map on your screen with some markers and shapes. That's it. You just created a Leaflet Map component inside of a React application without the headache of reading the React-Leaflet docs! It's super simple and allows you to have a much better, stress-free development experience.
 
 ---
 
