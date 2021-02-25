@@ -2,7 +2,7 @@
 
 Despite its noble cause and the developer's great effort, I feel like React-Leaflet fails in its mission to make it easier to use Leaflet with React. It could just be me, but I feel as though it takes the process of creating a map application more of a headache than it needs to be. Outside of the basic map instances like that provided in the ["Getting Started" section](https://react-leaflet.js.org/docs/start-setup), figuring out how to use React-Leaflet is quite difficult and frustrating. Not to mention, the documentation is incredibly complex, confusing, and flat-out hard to read through, although it does look nice. I've spent more time than I'd like to admit trying to figure out the docs and they are the biggest reason I don't like to use or recommend React-Leaflet.
 
-But, fear not! If you are like me and have a need to create an application with both Leaflet.js and React, there is another way. We are going to create a React-based application with a custom map component built with Leaflet.js. The finished code will be available at thie [GitHub repo]() and a Code Sandbox with a live demo is setup [here](https://codesandbox.io/s/nostalgic-kare-kbpye?file=/README.md)
+But, fear not! If you are like me and have a need to create an application with both Leaflet.js and React, there is another way. We are going to create a React-based application with a custom map component built with Leaflet.js. The finished code will be available at this [GitHub repo](https://github.com/jharris711/Custom-React-Leaflet-Component-Demo) and a Code Sandbox with a live demo is setup [here](https://codesandbox.io/s/nostalgic-kare-kbpye?file=/README.md)
 
 ---
 
